@@ -1,0 +1,9 @@
+metric,category,Rows,Reports
+Global Payment Share,Currency Ranking,80,4
+International Payment Share (ex-Eurozone),Currency Ranking,80,4
+Offshore RMB by Economy,Offshore Economies,60,4
+FX Spot Currency Ranking,FX Spot,40,4
+Trade Finance Share,Currency Ranking,40,4
+FX Spot Economies (RMB),Offshore Economies,24,4
+RMB MoM Payment Growth,RMB Activity,4,4
+All Currencies MoM Payment Growth,Market Activity,2,2

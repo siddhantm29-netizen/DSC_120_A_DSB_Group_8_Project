@@ -1,0 +1,331 @@
+report_month,data_month,source_report_name,metric,category,currency_or_economy,value,unit,rmb_global_rank,notes
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,USD,50.49,%,,Rank 1
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,EUR,21.90,%,,Rank 2
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,GBP,6.73,%,,Rank 3
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,CAD,3.44,%,,Rank 4
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,JPY,3.42,%,,Rank 5
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,CNY,2.73,%,6,Rank 6
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,HKD,1.68,%,,Rank 7
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,AUD,1.60,%,,Rank 8
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,SGD,1.33,%,,Rank 9
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,CHF,0.95,%,,Rank 10
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,SEK,0.73,%,,Rank 11
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,PLN,0.72,%,,Rank 12
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,NOK,0.52,%,,Rank 13
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,DKK,0.33,%,,Rank 14
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,NZD,0.33,%,,Rank 15
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,MXN,0.32,%,,Rank 16
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,ZAR,0.30,%,,Rank 17
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,THB,0.28,%,,Rank 18
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,HUF,0.23,%,,Rank 19
+January 2026,December 2025,RMB Tracker,Global Payment Share,Currency Ranking,MYR,0.23,%,,Rank 20
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,USD,58.62,%,,Rank 1
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,EUR,13.68,%,,Rank 2
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,GBP,5.21,%,,Rank 3
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,JPY,5.02,%,,Rank 4
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CAD,3.26,%,,Rank 5
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CNY,2.13,%,6,Rank 6
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,AUD,1.91,%,,Rank 7
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CHF,1.89,%,,Rank 8
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,HKD,1.24,%,,Rank 9
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,SEK,0.83,%,,Rank 10
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,SGD,0.83,%,,Rank 11
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,PLN,0.68,%,,Rank 12
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,NOK,0.59,%,,Rank 13
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,MXN,0.55,%,,Rank 14
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,DKK,0.51,%,,Rank 15
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,NZD,0.43,%,,Rank 16
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CZK,0.41,%,,Rank 17
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,TRY,0.31,%,,Rank 18
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,ZAR,0.29,%,,Rank 19
+January 2026,December 2025,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,HUF,0.29,%,,Rank 20
+January 2026,December 2025,RMB Tracker,RMB MoM Payment Growth,RMB Activity,CNY,12.65,%,,vs November 2025
+January 2026,December 2025,RMB Tracker,All Currencies MoM Payment Growth,Market Activity,ALL,21.16,%,,vs November 2025
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Hong Kong,74.55,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,United Kingdom,7.04,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Singapore,4.39,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,United States,2.68,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,France,1.95,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Taiwan,1.43,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,South Korea,1.31,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Australia,0.94,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Japan,0.81,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Germany,0.76,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Macao,0.75,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Belgium,0.46,%,,Non-clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Luxembourg,0.45,%,,Non-clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Netherlands,0.39,%,,Non-clearing centre
+January 2026,December 2025,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Canada,0.25,%,,Clearing centre
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,USD,79.53,%,,Rank 1
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,CNY,8.30,%,,Rank 2
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,EUR,6.73,%,,Rank 3
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,JPY,1.36,%,,Rank 4
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,THB,0.84,%,,Rank 5
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,SAR,0.80,%,,Rank 6
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,AED,0.59,%,,Rank 7
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,IDR,0.44,%,,Rank 8
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,VND,0.32,%,,Rank 9
+January 2026,December 2025,RMB Tracker,Trade Finance Share,Currency Ranking,CAD,0.13,%,,Rank 10
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,USD,,,6,Rank 1
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,EUR,,,6,Rank 2
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,GBP,,,6,Rank 3
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,JPY,,,6,Rank 4
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,CAD,,,6,Rank 5
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,CNY,,,6,Rank 6
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,AUD,,,6,Rank 7
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,CHF,,,6,Rank 8
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,HKD,,,6,Rank 9
+January 2026,December 2025,RMB Tracker,FX Spot Currency Ranking,FX Spot,KRW,,,6,Rank 10
+January 2026,December 2025,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,United Kingdom,36.96,%,,
+January 2026,December 2025,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,United States,14.99,%,,
+January 2026,December 2025,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,France,9.51,%,,
+January 2026,December 2025,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,Hong Kong,8.16,%,,
+January 2026,December 2025,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,China,7.31,%,,
+January 2026,December 2025,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,Others,23.07,%,,
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,USD,49.68,%,,Rank 1
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,EUR,22.36,%,,Rank 2
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,GBP,6.91,%,,Rank 3
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,JPY,3.44,%,,Rank 4
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,CNY,3.13,%,5,Rank 5
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,CAD,2.97,%,,Rank 6
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,HKD,1.87,%,,Rank 7
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,AUD,1.53,%,,Rank 8
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,SGD,1.40,%,,Rank 9
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,CHF,0.92,%,,Rank 10
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,SEK,0.79,%,,Rank 11
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,PLN,0.69,%,,Rank 12
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,NOK,0.63,%,,Rank 13
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,DKK,0.35,%,,Rank 14
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,MXN,0.33,%,,Rank 15
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,ZAR,0.30,%,,Rank 16
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,THB,0.30,%,,Rank 17
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,NZD,0.30,%,,Rank 18
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,HUF,0.23,%,,Rank 19
+February 2026,January 2026,RMB Tracker,Global Payment Share,Currency Ranking,CLP,0.22,%,,Rank 20
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,USD,58.83,%,,Rank 1
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,EUR,13.54,%,,Rank 2
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,GBP,5.30,%,,Rank 3
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,JPY,5.01,%,,Rank 4
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CAD,2.71,%,,Rank 5
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CNY,2.42,%,6,Rank 6
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,AUD,1.84,%,,Rank 7
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CHF,1.79,%,,Rank 8
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,HKD,1.37,%,,Rank 9
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,SEK,0.87,%,,Rank 10
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,SGD,0.85,%,,Rank 11
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,PLN,0.70,%,,Rank 12
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,NOK,0.68,%,,Rank 13
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,MXN,0.57,%,,Rank 14
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,DKK,0.54,%,,Rank 15
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CZK,0.39,%,,Rank 16
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,NZD,0.37,%,,Rank 17
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,TRY,0.37,%,,Rank 18
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,ZAR,0.30,%,,Rank 19
+February 2026,January 2026,RMB Tracker,International Payment Share (ex-Eurozone),Currency Ranking,HUF,0.27,%,,Rank 20
+February 2026,January 2026,RMB Tracker,RMB MoM Payment Growth,RMB Activity,CNY,11.44,%,,vs December 2025
+February 2026,January 2026,RMB Tracker,All Currencies MoM Payment Growth,Market Activity,ALL,-2.68,%,,vs December 2025; overall market declined
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Hong Kong,75.11,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,United Kingdom,7.27,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Singapore,4.45,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,United States,2.83,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,France,1.89,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Taiwan,1.36,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,South Korea,1.05,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Macao,0.81,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Australia,0.73,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Japan,0.72,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Germany,0.66,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Belgium,0.52,%,,Non-clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Luxembourg,0.40,%,,Non-clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Netherlands,0.36,%,,Non-clearing centre
+February 2026,January 2026,RMB Tracker,Offshore RMB by Economy,Offshore Economies,Canada,0.23,%,,Clearing centre
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,USD,80.70,%,,Rank 1
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,CNY,8.46,%,,Rank 2
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,EUR,5.57,%,,Rank 3
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,JPY,1.31,%,,Rank 4
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,THB,0.87,%,,Rank 5
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,AED,0.72,%,,Rank 6
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,SAR,0.66,%,,Rank 7
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,IDR,0.47,%,,Rank 8
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,VND,0.29,%,,Rank 9
+February 2026,January 2026,RMB Tracker,Trade Finance Share,Currency Ranking,INR,0.12,%,,Rank 10
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,USD,,,5,Rank 1
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,EUR,,,5,Rank 2
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,GBP,,,5,Rank 3
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,JPY,,,5,Rank 4
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,CNY,,,5,Rank 5
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,CAD,,,5,Rank 6
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,CHF,,,5,Rank 7
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,AUD,,,5,Rank 8
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,HKD,,,5,Rank 9
+February 2026,January 2026,RMB Tracker,FX Spot Currency Ranking,FX Spot,KRW,,,5,Rank 10
+February 2026,January 2026,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,United Kingdom,38.11,%,,
+February 2026,January 2026,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,United States,13.72,%,,
+February 2026,January 2026,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,France,10.12,%,,
+February 2026,January 2026,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,Hong Kong,9.31,%,,
+February 2026,January 2026,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,China,7.28,%,,
+February 2026,January 2026,RMB Tracker,FX Spot Economies (RMB),Offshore Economies,Others,21.45,%,,
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,USD,51.14,%,,Rank 1
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,EUR,21.30,%,,Rank 2
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,GBP,6.54,%,,Rank 3
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,JPY,3.53,%,,Rank 4
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,CNY,3.10,%,5,Rank 5
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,CAD,3.03,%,,Rank 6
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,HKD,1.76,%,,Rank 7
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,AUD,1.61,%,,Rank 8
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,SGD,1.23,%,,Rank 9
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,CHF,1.07,%,,Rank 10
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,SEK,0.77,%,,Rank 11
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,PLN,0.65,%,,Rank 12
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,NOK,0.57,%,,Rank 13
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,NZD,0.35,%,,Rank 14
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,DKK,0.32,%,,Rank 15
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,MXN,0.31,%,,Rank 16
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,ZAR,0.31,%,,Rank 17
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,THB,0.29,%,,Rank 18
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,HUF,0.25,%,,Rank 19
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,MYR,0.21,%,,Rank 20
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,USD,58.50,%,,Rank 1
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,EUR,13.49,%,,Rank 2
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,JPY,5.32,%,,Rank 3
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,GBP,5.00,%,,Rank 4
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CAD,2.73,%,,Rank 5
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CNY,2.44,%,6,Rank 6
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CHF,2.15,%,,Rank 7
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,AUD,1.93,%,,Rank 8
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,HKD,1.36,%,,Rank 9
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,SEK,0.88,%,,Rank 10
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,SGD,0.71,%,,Rank 11
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,NOK,0.68,%,,Rank 12
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,PLN,0.64,%,,Rank 13
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,MXN,0.54,%,,Rank 14
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,DKK,0.49,%,,Rank 15
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,NZD,0.44,%,,Rank 16
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,TRY,0.37,%,,Rank 17
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CZK,0.36,%,,Rank 18
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,ZAR,0.32,%,,Rank 19
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,HUF,0.30,%,,Rank 20
+April 2026,March 2026,Global Currency Tracker,RMB MoM Payment Growth,RMB Activity,CNY,,,5,No MoM growth figure provided in report
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Hong Kong,75.23,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,United Kingdom,6.90,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Singapore,4.37,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,United States,2.81,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,France,1.80,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Taiwan,1.34,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Macao,1.29,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,South Korea,1.14,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Japan,0.80,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Germany,0.66,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Australia,0.63,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Belgium,0.49,%,,Non-clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Luxembourg,0.43,%,,Non-clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Netherlands,0.36,%,,Non-clearing centre
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Canada,0.20,%,,Clearing centre
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,USD,80.73,%,,Rank 1
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,CNY,8.04,%,,Rank 2
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,EUR,5.78,%,,Rank 3
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,JPY,1.38,%,,Rank 4
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,THB,0.66,%,,Rank 5
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,KWD,0.59,%,,Rank 6
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,SAR,0.54,%,,Rank 7
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,AED,0.52,%,,Rank 8
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,VND,0.43,%,,Rank 9
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,IDR,0.42,%,,Rank 10
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,USD,,,4,Rank 1
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,EUR,,,4,Rank 2
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,GBP,,,4,Rank 3
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,CNY,,,4,Rank 4
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,JPY,,,4,Rank 5
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,CAD,,,4,Rank 6
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,AUD,,,4,Rank 7
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,CHF,,,4,Rank 8
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,HKD,,,4,Rank 9
+April 2026,March 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,KRW,,,4,Rank 10
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,United Kingdom,39.47,%,,
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,United States,15.59,%,,
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,France,10.23,%,,
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,Hong Kong,9.16,%,,
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,China,5.99,%,,
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,Others,19.56,%,,
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,USD,49.25,%,,Rank 1
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,EUR,22.82,%,,Rank 2
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,GBP,7.16,%,,Rank 3
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,JPY,3.46,%,,Rank 4
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,CAD,2.94,%,,Rank 5
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,CNY,2.74,%,6,Rank 6
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,HKD,1.71,%,,Rank 7
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,AUD,1.68,%,,Rank 8
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,SGD,1.29,%,,Rank 9
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,CHF,0.97,%,,Rank 10
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,SEK,0.85,%,,Rank 11
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,PLN,0.70,%,,Rank 12
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,NOK,0.62,%,,Rank 13
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,DKK,0.38,%,,Rank 14
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,NZD,0.34,%,,Rank 15
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,MXN,0.32,%,,Rank 16
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,ZAR,0.32,%,,Rank 17
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,THB,0.29,%,,Rank 18
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,HUF,0.25,%,,Rank 19
+March 2026,February 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,CLP,0.23,%,,Rank 20
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,USD,57.49,%,,Rank 1
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,EUR,14.07,%,,Rank 2
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,GBP,5.68,%,,Rank 3
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,JPY,5.11,%,,Rank 4
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CAD,2.71,%,,Rank 5
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CNY,2.16,%,6,Rank 6
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,AUD,2.03,%,,Rank 7
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CHF,1.94,%,,Rank 8
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,HKD,1.33,%,,Rank 9
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,SEK,0.99,%,,Rank 10
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,SGD,0.76,%,,Rank 11
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,NOK,0.70,%,,Rank 12
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,PLN,0.70,%,,Rank 13
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,DKK,0.60,%,,Rank 14
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,MXN,0.55,%,,Rank 15
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,NZD,0.43,%,,Rank 16
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CZK,0.37,%,,Rank 17
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,TRY,0.37,%,,Rank 18
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,ZAR,0.32,%,,Rank 19
+March 2026,February 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,HUF,0.31,%,,Rank 20
+March 2026,February 2026,Global Currency Tracker,RMB MoM Payment Growth,RMB Activity,CNY,,,6,No MoM growth figure provided in report
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Hong Kong,75.57,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,United Kingdom,6.80,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Singapore,4.32,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,United States,2.78,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,France,1.81,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Taiwan,1.28,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,South Korea,1.09,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Macao,1.01,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Japan,0.81,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Germany,0.69,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Australia,0.69,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Belgium,0.49,%,,Non-clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Luxembourg,0.40,%,,Non-clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Netherlands,0.34,%,,Non-clearing centre
+March 2026,February 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Canada,0.22,%,,Clearing centre
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,USD,81.96,%,,Rank 1
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,EUR,6.02,%,,Rank 2 - NOTE: CNY dropped to 3rd this month
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,CNY,5.90,%,,Rank 3 - Notable: dropped from 2nd to 3rd
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,JPY,1.56,%,,Rank 4
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,SAR,0.80,%,,Rank 5
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,AED,0.78,%,,Rank 6
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,THB,0.74,%,,Rank 7
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,IDR,0.53,%,,Rank 8
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,VND,0.35,%,,Rank 9
+March 2026,February 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,INR,0.21,%,,Rank 10
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,USD,,,6,Rank 1
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,EUR,,,6,Rank 2
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,GBP,,,6,Rank 3
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,JPY,,,6,Rank 4
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,CAD,,,6,Rank 5
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,CNY,,,6,Rank 6
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,AUD,,,6,Rank 7
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,CHF,,,6,Rank 8
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,KRW,,,6,Rank 9
+March 2026,February 2026,Global Currency Tracker,FX Spot Currency Ranking,FX Spot,HKD,,,6,Rank 10
+March 2026,February 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,United Kingdom,37.89,%,,
+March 2026,February 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,United States,15.69,%,,
+March 2026,February 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,Hong Kong,10.43,%,,
+March 2026,February 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,France,9.49,%,,
+March 2026,February 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,China,6.69,%,,
+March 2026,February 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,Others,19.82,%,,

@@ -1,0 +1,4 @@
+Commodity,Min Price,Max Price,Mean Price,Std Dev,CV (%),Range % from min,Largest Annual Rise (%),Largest Annual Drop (%)
+Brent Oil,$21.11,$211.21,$62.71,$35.96,57.4,900.5,141.5,-49.3
+Gold,$19.25,$5277.89,$397.55,$651.39,163.9,27317.6,89.3,-26.0
+Silver,$0.28,$113.95,$6.42,$9.90,154.1,40597.4,131.5,-48.6

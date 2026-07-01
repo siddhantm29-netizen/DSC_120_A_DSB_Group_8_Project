@@ -1,0 +1,5 @@
+Dataset,Rows,Columns,Start,End,Frequency
+Brent Oil,963,2,Jan 1946,Mar 2026,Monthly
+Gold,1336,2,Jan 1915,Apr 2026,Monthly
+Silver,1336,2,Jan 1915,Apr 2026,Monthly
+SWIFT Currency Tracker,330,10,Dec 2025,Mar 2026,4 monthly reports
